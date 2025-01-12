@@ -11,10 +11,10 @@ This method is also compatible with other engines, including Unity and Godot.
 
 ## Mainly material modification
 
-<img style="margin-right: 30px;" align="left" src="images/ImgMaterial.png"/><br>
+![ImgMaterial](images/ImgMaterial.png)
 
 ## What the modification has done
 
 This method solve the clipping problem by shorten the distance from mesh vertexs to camera, so that we can keep all vertexs inside collider to avoid clipping problems.
 
-<img style="margin-right: 30px;margin-bottom: 1000030px;" align="left" src="images/ImgPrinciple.png"/><br>
+![ImgMaterial](images/ImgPrinciple.png)
