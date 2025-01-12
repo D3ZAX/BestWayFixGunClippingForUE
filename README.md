@@ -13,6 +13,8 @@ This method is also compatible with other engines, including Unity and Godot.
 
 ![ImgMaterial](images/ImgMaterial.png)
 
+You can copy code from file "CopyCodeForUEMaterial.txt" then paste it directly into UE material editor. Need to modify all arm and weapon materials.
+
 ## What the modification has done
 
 This method solve the clipping problem by shorten the distance from mesh vertexs to camera, so that we can keep all vertexs inside collider to avoid clipping problems.
