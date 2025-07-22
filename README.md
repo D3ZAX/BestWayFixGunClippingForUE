@@ -1,3 +1,17 @@
+## Attention! UE 5.6 has implemented simular function
+If you are using UE 5.6 or above version, there is no need to modify material but only set camera and mesh with settings below will get same effect:
+
+Camera Settings:
+
+![ImgMaterial](images/UE5.6CameraSettings.png)
+
+Arm or Weapon Settings:
+
+![ImgMaterial](images/UE5.6ArmWeaponSettings.png)
+
+For more details, watch this vedio:
+https://www.youtube.com/watch?v=11sLIyw0pWQ
+
 # Best way to fix FPS gun clipping for UE
 This project shows how to fix FPS gun clipping porblem in Unreal Engine by modify material, it's simple and adjustable.
 
